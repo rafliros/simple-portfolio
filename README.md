@@ -18,20 +18,6 @@ Password : password
 
 ## Preview
 
-<b>- Home<b>
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(782).png?raw=true">
-<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(782).png?raw=true">
-</a>
-
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(783).png?raw=true">
-<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(783).png?raw=true">
-</a>
-
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(784).png?raw=true">
-<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(784).png?raw=true">
-</a>
-<br><br>
-
 <b>- Login<b>
 
 <a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(786).png?raw=true">
@@ -67,5 +53,4 @@ Password : password
 	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(797).png?raw=true">
 </a>
 
-## Author
-- Rahmat Hidayatullah
+
