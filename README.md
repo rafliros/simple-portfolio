@@ -39,18 +39,6 @@ Password : password
 </a>
 <br><br>
 
-<b>-Setting Layout<b>
 
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(794).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(794).png?raw=true">
-</a>
-
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(796).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(796).png?raw=true">
-</a>
-
-<a href="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(797).png?raw=true">
-	<img src="https://github.com/rahmathidayat9/readme-images/blob/master/simple-portfolio/Screenshot%20(797).png?raw=true">
-</a>
 
 
